@@ -2,6 +2,10 @@
 
 This README file includes the changes made by Cyprian Gomes as part of refactoring the website of Horiseon. The changes were carried out between Friday, 01 July 2022 and Saturday, 02 July 2022.
 
+The site can be access by visiting https://capg84.github.io/c1-horiseon-refactor/
+
+---
+
 ## Changes on the `index.html` file
 > As part of the challenge I have made the following changes to the `index.html` file
 
@@ -72,6 +76,11 @@ This README file includes the changes made by Cyprian Gomes as part of refactori
     * This will help to easily have different css properties for the other parts in future, if needed by the business case.
 
 ---------
+The refactored site will look like the below screenshot.
+
+![this image](/assets/images/horiseon-refactored-screenshot.png)
+
+--------
 
 ## Contact Details
 **Cyprian Gomes**
